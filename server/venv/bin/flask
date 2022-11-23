@@ -1,4 +1,4 @@
-#!/Users/vsean/Projects/toolUploadFile/server/venv/bin/python3.10
+#!/Users/vsean/Projects/tool-upload-file/server/venv/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
